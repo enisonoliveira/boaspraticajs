@@ -1,10 +1,7 @@
 # boaspraticajs
 
-O desenvolvimento moderno frequentemente faz uso extensivo de async/await para lidar com operações assíncronas, 
-simplificando o fluxo de código. No entanto, há cenários em que podemos optar por soluções alternativas, 
-seja para simplificar a leitura ou para ensinar práticas que reforcem o entendimento sobre callbacks e eventos.
-Este artigo é um presente especial de Natal para os desenvolvedores, explorando como podemos eliminar o async e, 
-ainda assim, manter o código funcional e legível.
+O desenvolvimento moderno frequentemente faz uso extensivo de async/await para lidar com operações assíncronas, simplificando o fluxo de código. No entanto, há cenários em que podemos optar por soluções alternativas, seja para simplificar a leitura ou para ensinar práticas que reforcem o entendimento sobre callbacks e eventos. Este artigo é um presente especial de Natal para os desenvolvedores, explorando como podemos eliminar o async e, ainda assim, manter o código funcional e legível.
+
  
 #### O Código Original com async Veja abaixo um exemplo de código que utiliza async de maneira redundante:
 
